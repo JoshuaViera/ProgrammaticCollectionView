@@ -1,14 +1,14 @@
 //
-//  FreeLancerCell.swift
+//  GenericCell.swift
 //  ProgrammaticUICollectionView
 //
-//  Created by Joshua Viera on 1/28/19.
+//  Created by Joshua Viera on 2/8/19.
 //  Copyright © 2019 Joshua Viera. All rights reserved.
 //
 
 import UIKit
 
-class FreeLancerCell: UICollectionViewCell {
+class GenericCell: UICollectionViewCell {
     
     let profileImageButton: UIButton = {
         let button = UIButton()
